@@ -1,0 +1,3 @@
+function showHello(){
+    SpeechRecognitionAlternative('Hello');
+}

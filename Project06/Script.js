@@ -1,3 +1,3 @@
 function showHello(){
-    SpeechRecognitionAlternative('Hello');
+    SpeechRecognitionAlternative('Hello,KCG!');
 }
